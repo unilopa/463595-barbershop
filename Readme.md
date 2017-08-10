@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [POLINA BLOSHCHITCYNA](https://up.htmlacademy.ru/htmlcss/18/user/463595).
+* Наставник: [СЕРГЕЙ КРАВЧЕНКО](https://htеmlacademy.ru/profile/id13921).
 
 ---
 
