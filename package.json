@@ -1,0 +1,22 @@
+{
+  "name": "463595-barbershop",
+  "version": "1.0.0",
+  "description": "* Студент: [POLINA BLOSHCHITCYNA](https://up.htmlacademy.ru/htmlcss/18/user/463595). * Наставник: [СЕРГЕЙ КРАВЧЕНКО](https://htеmlacademy.ru/profile/id13921).",
+  "dependencies": {
+    "stylelint-config-htmlacademy": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unilopa/463595-barbershop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unilopa/463595-barbershop/issues"
+  },
+  "homepage": "https://github.com/unilopa/463595-barbershop#readme"
+}
